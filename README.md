@@ -1,4 +1,4 @@
-*home__projects__about*
+*home • projects • about*
 # ac3ospades
 
 hi
