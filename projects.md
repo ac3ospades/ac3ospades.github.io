@@ -1,1 +1,4 @@
+*home • **projects** • about*
+# projects
 
+how the hell can i make a grid of photos
